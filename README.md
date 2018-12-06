@@ -26,10 +26,10 @@ The `Back End Development` unit explored the following topics: `Building RESTful
 
 ### Day 0 - Kick off
 
-The Friday before you start building this project you will be organized into a team and your goal is to make a few key decisions. All of the follow needs to be done by 5pm on Friday. You need to have a plan moving into the weekend and starting on the following Monday.
+The Friday before you start building this project you will be organized into a team and your goal is to make a few key decisions. All of the follow needs to be done by 5pm on Friday. You need to have a plan moving into the weekend and starting on the following Monday. The following need to be **completed by the end of the day on Friday:**
 
-- [ ] Pick a project from the list of project ideas assigned to you.
-- [ ] Head over to a few sites to draw inspiration for the theme of your project. [Dribbble](https://dribbble.com/) & [HTML5UP](https://html5up.net/)
+- [ ] Pick a project from the list of project ideas provided to you.
+- [ ] Head over to a few sites to draw inspiration for the theme of your project. [Dribbble](https://dribbble.com/), [HTML5UP](https://html5up.net/) & [CodePen](https://codepen.io/) come to mind.
 - [ ] Create a Github Repository and add each team member and your PM as collaborators on the project.
 
 ### Day 1 - Build Day
