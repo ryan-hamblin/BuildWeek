@@ -1,9 +1,9 @@
-# Build Week
+# Build Week: Project Description
 
 This project allows you to practice the concepts and techniques learned over the past 4 weeks and apply them in a concrete project. The Objectives of this project are:
 
-- Prepare each student in their respective section to develop an living understanding of how Lambda Labs operates.
 - Allow each student to demonstrate their proficiency across the objectives thus far learned at Lambda School.
+- Prepare each student in their respective section to develop a firm understanding of how Lambda Labs operates.
 - Provide students with as many opportunities as possible to learn what it's like to develop software in a real world environment.
 - Provide students time to develop at least 5 projects worthy of professional portfolio during their time at Lambda School.
 - Encourage cross section and cross course collaboration amongst our student body.
