@@ -65,9 +65,9 @@ The Friday before you start building this project you will be organized into a t
 #### Day 4 - Build Day - Final Day of Coding
 
 - [ ] Feature freeze by 11AM PST. NO MORE NEW FEATURES BUILT. Today is all about polish and presentation.
-- [ ]
+- [ ] Whatever you have built thus far needs to be polished up, and any known bugs need to be ironed out before demonstration.
 
 #### Day 5 - Demo and Review
 
 - [ ] Deliver a live 3 min Demo of your project.
-- [ ] Meet with your PM to recieve a review of your participation for the project.
+- [ ] Meet with your PM to receive a review of your participation for the project.
