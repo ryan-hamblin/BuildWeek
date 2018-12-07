@@ -57,6 +57,8 @@ Use [this rubric](https://docs.google.com/spreadsheets/d/1dL5UfyiHJ2qxWWfot-FTOe
 
 ## Back-end Development Role Description
 
+You have been learning all about NodeJS and Express and SQL in order to craft Web Servers and build API's for consumption by client side applications. You will use these skills to be in charge of building out the back-end API for your project.
+
 ### The `Back End Development` unit explored the following topics:
 
 - Building RESTful Web APIs with Express and Node.js
@@ -80,6 +82,22 @@ You will use your skills to be responsible for the back-end architecture of this
 
 Use [this rubric](https://docs.google.com/spreadsheets/d/1sFgvt8HtqNCw32YC8Wvrgrdb61oEWPTsBUrvOL3rAGQ/edit#gid=0) to help guide your development processes
 
+## Scrum Master Role
+
+In the Computer Science portion of the curriculum you have learned a number of skills that help make you a stronger developer. You have more experience solving difficult problems and more general knowledge on how computing systems work from the ground up. You will be responsible primarily for the deployment of the different pieces of the project, The Marketing Site, The Client Side App and the Back End API.
+
+### Your CS Unit has taught you thus far some of the following skills:
+
+- You are a generalist developer
+- You have the ability to solve problems that you don't know how to solve, or research solutions to problems you don't know how to tackle.
+- You know how to work as a leader and have demonstrated abilities to guide students along the way.
+
+#### Your Primary Role as a Scrum Master
+
+You, yourself, will have pieces of the project to work on. Additionally, your problem solving skills can be brought to bear across many of the project's subsystems, so be available to help anywhere you can. You might have your hands in a lot of different source files. If the project schedule permits it, push your boundaries and set up something more advanced like CI/CD.
+
+IMPORTANT: You're not the manager or boss; you are equal in rank to your teammates. Your job is to serve and enable the other members of the team (and yourself!) to do work more effectively.
+
 ## Instructions
 
 Focus on the objectives and desirable outcomes of Build Week listed in the description of this document above. You're aim here is to deliver a product and to work in roles across the development life-cycle of your application.
@@ -98,6 +116,7 @@ The following is a loose schedule for you to abide by while building your projec
 The Friday before you start building this project you will be organized into a team and your goal is to make a few key decisions. All of the follow needs to be done by 5pm on Friday. You need to have a plan moving into the weekend and starting on the following Monday. The following need to be **completed by the end of the day on Friday:**
 
 - [ ] Pick a project from the list of project ideas provided to you.
+- [ ] Create a slack channel and add your instructors, PM's and entire group to it.
 - [ ] Head over to a few sites to draw inspiration for the theme of your project. [Dribbble](https://dribbble.com/), [HTML5UP](https://html5up.net/) & [CodePen](https://codepen.io/) come to mind.
 - [ ] Create a Github Repository and add each team member and your PM as collaborators on the project.
 
@@ -122,4 +141,4 @@ The Friday before you start building this project you will be organized into a t
 #### Day 5 - Demo and Review
 
 - [ ] Deliver a live 3 min Demo of your project.
-- [ ] Meet with your PM to receve a review of your participation for the project.
+- [ ] Meet with your PM to receive a review of your participation for the project.
