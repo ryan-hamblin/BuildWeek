@@ -119,6 +119,7 @@ The Friday before you start building this project you will be organized into a t
 - [ ] Create a slack channel and add your instructors, PM's and entire group to it.
 - [ ] Head over to a few sites to draw inspiration for the theme of your project. [Dribbble](https://dribbble.com/), [HTML5UP](https://html5up.net/) & [CodePen](https://codepen.io/) come to mind.
 - [ ] Create a Github Repository and add each team member and your PM as collaborators on the project.
+- [ ] Build your list of MVP features to be delivered to your PM on Monday.
 
 #### Day 1 - Build Day
 
