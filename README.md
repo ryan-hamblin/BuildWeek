@@ -4,6 +4,7 @@ This project allows you to practice the concepts and techniques learned over the
 
 - Allow each student to demonstrate their proficiency across the objectives learned over the last 4 weeks at Lambda School.
 - Prepare each student in their respective section to develop a firm understanding of how Lambda Labs operates.
+- Foobar
 - Provide students with as many opportunities as possible to learn what it's like to develop software in a real world environment.
 - Provide students time to develop at least 5 projects worthy of professional portfolio during their time at Lambda School.
 - Encourage cross section and cross course collaboration amongst our student body.
